@@ -1,15 +1,27 @@
 {
-	"copyright": [ { "language": "en-US", "text": "© CAPCOM" } ],
+	"copyright": [ 
+					{ "language": "en-US", "text": "© CAPCOM" }, 
+					{ "language": "fr-FR", "text": "© CAPCOM" } 
+				],
 	"glossary": {
-		"rule-box-concat": [ { "language": "en-US", "text": "or" } ]
+		"rule-box-concat": [ 
+								{ "language": "en-US", "text": "or" }, 
+								{ "language": "fr-FR", "text": "or" }
+							]
 	},
 	"behavior-decks": [
 		{
 			"monster-id": "great-jagras",
 			"base-deck": [
 				{
-					"name": [ { "language": "en-US", "text": "Heavy Bite" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 545/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Heavy Bite" }, 
+								{ "language": "fr-FR", "text": "Morsure Lourde" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 545/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 545/632" } 
+							],
 					"target": "close",
 					"part": "head",
 					"actions": [
@@ -33,8 +45,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Head Slam" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 546/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Head Slam" }, 
+								{ "language": "fr-FR", "text": "Coup de tête" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 546/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 546/632" } 
+							],
 					"target": "close",
 					"part": "head",
 					"actions": [
@@ -58,8 +76,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Headbutt" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 547/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Headbutt" }, 
+								{ "language": "fr-FR", "text": "Coup de boule" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 547/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 547/632" } 
+							],
 					"target": "close",
 					"part": "head",
 					"actions": [
@@ -84,8 +108,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Spit Up" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 548/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Spit Up" }, 
+								{ "language": "fr-FR", "text": "Crachat" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 548/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 548/632" } 
+							],
 					"target": "far",
 					"part": "head",
 					"actions": [
@@ -108,8 +138,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Belly Roll Left" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 549/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Belly Roll Left" }, 
+								{ "language": "fr-FR", "text": "Roulis à gauche" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 549/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 549/632" } 
+							],
 					"target": "close",
 					"part": "body",
 					"actions": [
@@ -134,8 +170,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Belly Charge" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 550/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Belly Charge" }, 
+								{ "language": "fr-FR", "text": "Charge ventru" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 550/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 550/632" } 
+							],
 					"target": "far",
 					"part": "body",
 					"actions": [
@@ -159,8 +201,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Belly Slam" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 551/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Belly Slam" }, 
+								{ "language": "fr-FR", "text": "Coup de ventre" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 551/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 551/632" } 
+							],
 					"target": "close",
 					"part": "body",
 					"actions": [
@@ -184,8 +232,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Belly Roll Right" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 552/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Belly Roll Right" }, 
+								{ "language": "fr-FR", "text": "Roulis à droite" }  
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 552/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 552/632" } 
+							],
 					"target": "close",
 					"part": "body",
 					"actions": [
@@ -210,8 +264,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Front Claw Smash" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 553/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Front Claw Smash" }, 
+								{ "language": "fr-FR", "text": "Coup de griffe" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 553/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 553/632" } 
+							],
 					"target": "far",
 					"part": "claws",
 					"actions": [
@@ -235,8 +295,14 @@
 					}
 				},
 				{
-					"name": [ { "language": "en-US", "text": "Forward Swing" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 554/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Forward Swing" }, 
+								{ "language": "fr-FR", "text": "Saut en avant" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 554/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 554/632" } 
+							],
 					"target": "far",
 					"part": "claws",
 					"actions": [
@@ -263,8 +329,13 @@
 			"special": null,
 			"track-deck": {
 				"less-or-equal-minimum": {
-					"name": [ { "language": "en-US", "text": "Forward Roll" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 556/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Forward Roll" }, 
+								{ "language": "fr-FR", "text": "Roulis en avant" } ],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 556/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 556/632" } 
+							],
 					"target": "close",
 					"part": "body",
 					"actions": [
@@ -289,8 +360,13 @@
 					}
 				},
 				"above-minimum-below-maximum": {
-					"name": [ { "language": "en-US", "text": "Jagras Spit" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 557/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Jagras Spit" }, 
+								{ "language": "fr-FR", "text": "Jet d'eau" } ],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 557/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 557/632" } 
+							],
 					"target": "far",
 					"part": "head",
 					"actions": [
@@ -313,8 +389,14 @@
 					}
 				},
 				"greater-or-equal-maximum": {
-					"name": [ { "language": "en-US", "text": "Retreat Swing" } ],
-					"index": [ { "language": "en-US", "text": "MHW:AF 555/632" } ],
+					"name": [ 
+								{ "language": "en-US", "text": "Retreat Swing" }, 
+								{ "language": "fr-FR", "text": "Saut de retraite" } 
+							],
+					"index": [ 
+								{ "language": "en-US", "text": "MHW:AF 555/632" }, 
+								{ "language": "fr-FR", "text": "MHW:AF 555/632" } 
+							],
 					"target": "close",
 					"part": "claws",
 					"actions": [
@@ -599,219 +681,467 @@
 						{
 							"number": 2,
 							"page": 6,
-							"title": [ { "language": "en-US", "text": "Investigation 1 Starting Point" } ],
-							"title-rule": [ { "language": "en-US", "text": "If starting the adventure here, the group gains 2 potions." } ],
-							"flavor": [ { "language": "en-US", "text": "A Great Jagras is on the loose; the last week has presented you with plentiful evidence - dozens of corpses, ripped apart in frenzy, and left half eaten. This will be a hunt to test even the most experienced of trackers. You've heard of Jagras consuming hunters in a single bite. That won't be you." } ],
-							"consequence": [ { "language": "en-US", "text": "Each hunter gains 1 Great Jagras Claw." } ],
+							"title": [ 
+										{ "language": "en-US", "text": "Investigation 1 Starting Point" }, 
+										{ "language": "fr-FR", "text": "Point de départ d'investigation 1" } ]
+										,
+							"title-rule": [ 
+											{ "language": "en-US", "text": "If starting the adventure here, the group gains 2 potions." }, 
+											{ "language": "fr-FR", "text": "Si votre aventure démarre ici, le groupe gagne 2 potions." } 
+										],
+							"flavor": [ 
+										{ "language": "en-US", "text": "A Great Jagras is on the loose; the last week has presented you with plentiful evidence - dozens of corpses, ripped apart in frenzy, and left half eaten. This will be a hunt to test even the most experienced of trackers. You've heard of Jagras consuming hunters in a single bite. That won't be you." }, 
+										{ "language": "fr-FR", "text": "Un Grand Jagras se ballade librement dans la forêt; de nombreuses preuves ont été amassées la semaine dernière - des dizaines de cadavres, déchirés avec frénésie et laissés à moitié dévorés. Ce sera un défi même les pisteurs les plus expérimentés. Vous avez entendu parler de Jagras consommant des chasseurs en une seule bouchée. Ce ne sera pas vous." } 
+									],
+							"consequence": [ 
+											{ "language": "en-US", "text": "Each hunter gains 1 Great Jagras Claw." }, 
+											{ "language": "fr-FR", "text": "Chaque chasseur gagne 1 Great Jagras Claw." } 
+										],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Hit the trail running?" } ],
-									"rules": [ { "language": "en-US", "text": "Gain 1 track token. Progress to entry 27." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Hit the trail running?" }, 
+												{ "language": "fr-FR", "text": "Poursuivre les traces laissées?" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Gain 1 track token. Progress to entry 27." }, 
+												{ "language": "fr-FR", "text": "Gagnez un jeton de traque. Progressez à l'étape 27." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Stay and dig around the remains?" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card.\r\nEach hunter gains 1 Monster Bone Medium.\r\nProgress to entry 25." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Stay and dig around the remains?" }, 
+												{ "language": "fr-FR", "text": "Rester et fouiller les restes?" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card.\r\nEach hunter gains 1 Monster Bone Medium.\r\nProgress to entry 25." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps.\r\nChaque chasseur gagne 1 Monster Bone Medium.\r\nProgressez à l'étape 25." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Race to where your prey was last seen!" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Race to where your prey was last seen!" }, 
+												{ "language": "fr-FR", "text": "Foncer vers le dernier endroit où la créature à été vu!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Défaussez 5 cartes de temps. Progressez à l'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 3,
 							"page": 6,
-							"title": [ { "language": "en-US", "text": "Investigation 2 Starting Point" } ],
-							"title-rule": [ { "language": "en-US", "text": "If starting the adventure here, the group gains 1 potion." } ],
-							"flavor": [ { "language": "en-US", "text": "The handler standing by the tracks gives you an appraising glance. `I'd be very careful pursuing this beast,´ she says, idly scratching her chin. `It's aggressive even by Jagras standards. But, if you insist on tracking it, take that route...´ she gestures to a dirt path leading into the forest. `It's still hungry. Good luck!´ Her warning said, she vanishes into the forest." } ],
+							"title": [ 
+										{ "language": "en-US", "text": "Investigation 2 Starting Point" }, 
+										{ "language": "fr-FR", "text": "Point de départ d'investigation 2" } 
+									],
+							"title-rule": [ 
+											{ "language": "en-US", "text": "If starting the adventure here, the group gains 1 potion." }, 
+											{ "language": "fr-FR", "text": "Si votre aventure démarre ici, le groupe gagne 1 potion." } 
+										],
+							"flavor": [ 
+										{ "language": "en-US", "text": "The handler standing by the tracks gives you an appraising glance. `I'd be very careful pursuing this beast,´ she says, idly scratching her chin. `It's aggressive even by Jagras standards. But, if you insist on tracking it, take that route...´ she gestures to a dirt path leading into the forest. `It's still hungry. Good luck!´ Her warning said, she vanishes into the forest." }, 
+										{ "language": "fr-FR", "text": "Le conducteur qui se tient près des voies vous donne un regard appréciateur. « Je ferais très attention de poursuivre cette bête », dit-elle en se grattant négligemment le menton. `Il est agressif même selon les standards des Jagras. Mais, si vous insistez pour le poursuivre, prenez cette route...´ Il désigne un chemin de terre qui mène à la forêt. « Il a encore faim. Bonne chance !´ Son avertissement dit, il disparaît dans la forêt." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Follow her advice, and slowly advance." } ],
-									"rules": [ { "language": "en-US", "text": "Gain and reveal 1 track token, then choose whether to keep or discard it. Progress to entry 26." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Follow her advice, and slowly advance." }, 
+												{ "language": "fr-FR", "text": "Suivre son conseil, et avancer prudemment." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Gain and reveal 1 track token, then choose whether to keep or discard it. Progress to entry 26." }, 
+												{ "language": "fr-FR", "text": "Gagnez et révelez 1 jeton de traque, choississez ensuite de le garder ou de le défaussez. Progressez à l'étape 26." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "With so many tracks, there's no time to waste!" } ],
-									"rules": [ { "language": "en-US", "text": "Gain 2 track tokens. Progress to entry 16." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "With so many tracks, there's no time to waste!" }, 
+												{ "language": "fr-FR", "text": "Avec toute ces pistes, pas de temps a perdre!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Gain 2 track tokens. Progress to entry 16." }, 
+												{ "language": "fr-FR", "text": "Gagnez 2 jetons de traque. Progressez à l'étape 16." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Race to where your prey was last seen!" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Race to where your prey was last seen!" }, 
+												{ "language": "fr-FR", "text": "Se dépecher d'aller au dernier endroit où votre cible à été apperçue!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Défaussez 5 cartes de temps. Progressez à l'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 4,
 							"page": 6,
-							"title": [ { "language": "en-US", "text": "Investigation 3 Starting Point" } ],
-							"title-rule": [ { "language": "en-US", "text": "If starting the adventure here, the group gains 2 potions." } ],
-							"flavor": [ { "language": "en-US", "text": "The beach stretches out before you, an exquisite expanse of untouched sand. The sea surges across it, leaving glistening foam to mark each wave. The forest rises behind you, an oppressive memory, but you may have to withdraw back into its ferny grip and leave this beautiful scene behind. Do you..." } ],
+							"title": [ 
+										{ "language": "en-US", "text": "Investigation 3 Starting Point" }, 
+										{ "language": "fr-FR", "text": "Point de départ d'investigation 3" } 
+									],
+							"title-rule": [ 
+										{ "language": "en-US", "text": "If starting the adventure here, the group gains 2 potions." }, 
+										{ "language": "fr-FR", "text": "Si votre aventure démarre ici, le groupe gagne 2 potions." } 
+									],
+							"flavor": [ 
+										{ "language": "en-US", "text": "The beach stretches out before you, an exquisite expanse of untouched sand. The sea surges across it, leaving glistening foam to mark each wave. The forest rises behind you, an oppressive memory, but you may have to withdraw back into its ferny grip and leave this beautiful scene behind. Do you..." }, 
+										{ "language": "fr-FR", "text": "La plage s'étend devant vous, une exquise étendue de sable doré. La mer déferle dessus, laissant une écume scintillante marquer chaque vague. La forêt s'élève derrière vous, oppressante, mais vous devrez peut-être vous retirer dans son emprise de fougère et laisser cette belle scène derrière vous." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Head down the beach." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Gain 1 track token.\r\nProgress to entry 22." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Head down the beach." }, 
+												{ "language": "fr-FR", "text": "Descendre sur la plage." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Gain 1 track token.\r\nProgress to entry 22." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Gagnez 1 jeton de traque.\r\nProgressez à l'étape 22." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Head back into the forest, towards a camp you can see between the trees." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Progress to entry 9." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Head back into the forest, towards a camp you can see between the trees." }, 
+												{ "language": "fr-FR", "text": "S'enfoncer à travers la forêt, vers un camp que vous pouvez appercevoir à travers les arbres." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Progress to entry 9." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Progressez à l'étape 9." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Race to where your prey was last seen!" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Race to where your prey was last seen!" }, 
+												{ "language": "fr-FR", "text": "Se dépecher d'aller au dernier endroit où votre cible à été apperçue!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Défaussez 5 cartes de temps. Progressez à l'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 5,
 							"page": 7,
-							"title": [ { "language": "en-US", "text": "Investigation 4 Starting Point" } ],
-							"title-rule": [ { "language": "en-US", "text": "If starting the adventure here, the group gains 1 potion." } ],
-							"flavor": [ { "language": "en-US", "text": "The thunder of water threatens to distract your mind as you scan the nearby terrain. Great Jagras is on the hunt, and you're on its trail. The river below surges into the forest, and the thick foliage of the trees obscures the path of the creature you seek." } ],
+							"title": [ 
+										{ "language": "en-US", "text": "Investigation 4 Starting Point" }, 
+										{ "language": "fr-FR", "text": "Point de départ d'investigation 4" } 
+									],
+							"title-rule": [ 
+											{ "language": "en-US", "text": "If starting the adventure here, the group gains 1 potion." }, 
+											{ "language": "fr-FR", "text": "Si votre aventure démarre ici, le groupe gagne 1 potion." } 
+										],
+							"flavor": [ 
+										{ "language": "en-US", "text": "The thunder of water threatens to distract your mind as you scan the nearby terrain. Great Jagras is on the hunt, and you're on its trail. The river below surges into the forest, and the thick foliage of the trees obscures the path of the creature you seek." }, 
+										{ "language": "fr-FR", "text": "Le grondement de l'eau menace de distraire votre esprit lorsque vous analysez le terrain à proximité. Le Grand Jagras est en chasse et vous êtes sur sa piste. La rivière en contrebas s'engouffre dans la forêt, et l'épais feuillage des arbres obscurcit le chemin de la créature que vous cherchez." } ],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Follow what tracks you can." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Gain 2 track tokens.\r\nProgress to entry 13." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Follow what tracks you can." }, 
+												{ "language": "fr-FR", "text": "Suivre les pistes que vous pouvez." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Gain 2 track tokens.\r\nProgress to entry 13." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Gagnez 2 jetons de traque.\r\nProgressez à l'étape 13." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Investigate the area." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 2 time cards. Each Hunter gains 1 Piercing Claw and 1 Monster Bone Large. Progress to entry 24." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Investigate the area." }, 
+												{ "language": "fr-FR", "text": "Fouiller la zone." } ]
+												,
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 2 time cards. Each Hunter gains 1 Piercing Claw and 1 Monster Bone Large. Progress to entry 24." }, 
+												{ "language": "fr-FR", "text": "Défaussez 2 cartes de temps. Chaque chasseur gagne 1 Piercing Claw et 1 Monster Bone Large. Progressez à l'étape 24." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Head downriver to where Great Jagras was last seen." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Progress to entry 14." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Head downriver to where Great Jagras was last seen." }, 
+												{ "language": "fr-FR", "text": "Descendre le long de la rivière où le Grand Jagras à été vu." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Progress to entry 14." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Progressez à l'étape 14."} 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Race to where your prey was last seen!" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Race to where your prey was last seen!" }, 
+												{ "language": "fr-FR", "text": "Se dépecher d'aller au dernier endroit où votre cible à été apperçue!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 5 time cards. Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Défaussez 5 cartes de temps. Progressez à l'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 6,
 							"page": 7,
-							"flavor": [ { "language": "en-US", "text": "Just when you are about to lose heart you come across a pile of Great Jagras dung, left in the wake of your prey. It may be a grisly sight, but it fills your heart with hope as you head for a clearing ahead." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "Just when you are about to lose heart you come across a pile of Great Jagras dung, left in the wake of your prey. It may be a grisly sight, but it fills your heart with hope as you head for a clearing ahead." }, 
+										{ "language": "fr-FR", "text": "Juste au moment où vous êtiez sur le point de baisser les bras, vous tombez sur un tas de crottes de Grand Jagra, laissé dans le sillage de votre proie. C'est peut-être un spectacle macabre, mais cela remplit votre cœur d'espoir alors que vous vous dirigez vers une clairière." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "No time to look back." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Gain 3 track tokens.\r\nProgress to entry 18." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "No time to look back." }, 
+												{ "language": "fr-FR", "text": "Pas de temps a perdre." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Gain 3 track tokens.\r\nProgress to entry 18." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Gagnez 3 jetons de traque.\r\nProgressez à l'étape 18." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Wait, listen... is that something behind us?" } ],
-									"rules": [ { "language": "en-US", "text": "Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Wait, listen... is that something behind us?" }, 
+												{ "language": "fr-FR", "text": "Attendez, écoutez... il y a quelque chose derrière nous?" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Progressez à l'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 7,
 							"page": 7,
-							"flavor": [ { "language": "en-US", "text": "Flickering light paints eerie shadows across the walls, dancing pools of darkness that give mind to vicious predators. Your feet kick up dust and crunch through tiny bones, revealing sparkling metals and gems..." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "Flickering light paints eerie shadows across the walls, dancing pools of darkness that give mind to vicious predators. Your feet kick up dust and crunch through tiny bones, revealing sparkling metals and gems..." }, 
+										{ "language": "fr-FR", "text": "Une lumière vacillante peint des ombres étranges sur les murs de la grotte, des bassins de ténèbres dansants qui donnent l'esprit aux prédateurs vicieux. Vos pieds soulèvent la poussière et écrasent de minuscules os, révélant des métaux et des pierres précieuses étincelants..." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Search the cave." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card.\r\nEach hunter rolls on the following table.\r\n\r\n1-2 Gain 1 Dragonite Ore\r\n3-4 Gain 1 Fucium Ore\r\n5-6 Gain 1 Ancient Bone\r\n\r\nOnce each hunter has rolled.\r\nProgress to entry 11." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Search the cave." }, 
+												{ "language": "fr-FR", "text": "Fouillez la caverne." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card.\r\nEach hunter rolls on the following table.\r\n\r\n1-2 Gain 1 Dragonite Ore\r\n3-4 Gain 1 Fucium Ore\r\n5-6 Gain 1 Ancient Bone\r\n\r\nOnce each hunter has rolled.\r\nProgress to entry 11." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps.\r\nChaque chasseur lance un dé sur la table suivante.\r\n\r\n1-2 Gagnez 1 Dragonite Ore\r\n3-4 Gagnez 1 Fucium Ore\r\n5-6 Gagnez 1 Ancient Bone\r\n\r\nLosque tous les chasseurs ont lancé un dé.\r\nProgressez à l'étape 11." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Turn back from this sinister place." } ],
-									"rules": [ { "language": "en-US", "text": "Progress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Turn back from this sinister place." }, 
+												{ "language": "fr-FR", "text": "Rebroussez chemin afin de quitter cet endroit sinistre." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Progress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Progressez àl'étape 30." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 8,
 							"page": 7,
-							"flavor": [ { "language": "en-US", "text": "Have you been this way before? Things look familiar. But then... the forest always looks familiar. You're definitely lost. Eventually, you see a cave, something in the rocks outside glittering in the sun. You're about to use your pick, when you see some tracks, half buried in the dust." } ],
-							"consequence": [ { "language": "en-US", "text": "Discard 1 time card." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "Have you been this way before? Things look familiar. But then... the forest always looks familiar. You're definitely lost. Eventually, you see a cave, something in the rocks outside glittering in the sun. You're about to use your pick, when you see some tracks, half buried in the dust." }, 
+										{ "language": "fr-FR", "text": "N'êtes-vous pas déjà passez par là ? Les choses vous semblent familières. Mais alors... la forêt vous semble toujours familière. Vous êtes définitivement perdu. Finalement, vous voyez une grotte, quelque chose dans les rochers à l'extérieur scintillant au soleil. Vous êtes sur le point d'utiliser votre pioche, quand vous voyez des pistes, à moitié enfouies dans la poussière." } 
+									],
+							"consequence": [ 
+											{ "language": "en-US", "text": "Discard 1 time card." }, 
+											{ "language": "fr-FR", "text": "Défaussez 1 carte de temps." } 
+										],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Mine the ore, then enter the cave." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 track token.\r\nEach hunter rolls on the following table.\r\n\r\n1-2 Gain 1 Dragonite Ore\r\n3-4 Gain 1 Fucium Ore\r\n5-6 Gain 1 Firecell Ore\r\n\r\nOnce each hunter has rolled. Progress to entry 7." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Mine the ore, then enter the cave." }, 
+												{ "language": "fr-FR", "text": "Minez le minerai, puis pénètrer dans la caverne." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 track token.\r\nEach hunter rolls on the following table.\r\n\r\n1-2 Gain 1 Dragonite Ore\r\n3-4 Gain 1 Fucium Ore\r\n5-6 Gain 1 Firecell Ore\r\n\r\nOnce each hunter has rolled. Progress to entry 7." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 jeton de traque.\r\nChaque chasseur lance un dé sur la table suivante.\r\n\r\n1-2 Gagnez 1 Dragonite Ore\r\n3-4 Gagnez 1 Fucium Ore\r\n5-6 Gagnez 1 Firecell Ore\r\n\r\nLosque tous les chasseurs ont lancé un dé. Progressez à l'étape 7." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Follow the tracks you can see, and hope they're fresh." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Gain 1 track token. Progress to entry 6." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Follow the tracks you can see, and hope they're fresh." }, 
+												{ "language": "fr-FR", "text": "Suivre les pistes que vous voyez, et espérer qu'elles sont récentes." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Gain 1 track token. Progress to entry 6." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Gagnez 1 jeton de traque. Progressez à l'étape 6." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 9,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "A host of Palico gather at the edge of the camp as you draw near, mewing with interest. The creatures quickly resume their training drills, dodging and darting around the encampment as you take a few moments to rest. The hunt has to continue, but, for a few moments, being among the Palico is a cure for the perils of your work." } ],
-							"consequence": [ { "language": "en-US", "text": "Discard 2 time cards." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "A host of Palico gather at the edge of the camp as you draw near, mewing with interest. The creatures quickly resume their training drills, dodging and darting around the encampment as you take a few moments to rest. The hunt has to continue, but, for a few moments, being among the Palico is a cure for the perils of your work." }, 
+										{ "language": "fr-FR", "text": "Une foule de Palico se rassemblent au bord du camp alors que vous vous approchez, miaulant d'intérêt. Les créatures reprennent rapidement leurs exercices d'entraînement, esquivant et se précipitant autour du campement pendant que vous prenez quelques instants pour vous reposer. La chasse doit continuer, mais, pour quelques instants, être parmi les Palico est un remède aux périls de votre travail." } 
+									],
+							"consequence": [ 
+											{ "language": "en-US", "text": "Discard 2 time cards." }, 
+											{ "language": "fr-FR", "text": "Défaussez 2 cartes de temps." } 
+										],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Ask for their aid." } ],
-									"rules": [ { "language": "en-US", "text": "Each hunter that does not have a Palico draws a Palico card.\r\nThey may use it during the next hunting phase, then it is discarded. Progress to entry 29." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Ask for their aid." }, 
+												{ "language": "fr-FR", "text": "Demander de l'aide." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Each hunter that does not have a Palico draws a Palico card.\r\nThey may use it during the next hunting phase, then it is discarded. Progress to entry 29." }, 
+												{ "language": "fr-FR", "text": "Chaque chasseur qui n'ont pas de carte Palico en pioche une.\r\nIls peuvent l'utiliser pendant la phase de chasse, sinon elle est défaussée. Progressez à l'étape 29." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Ask for a guide." } ],
-									"rules": [ { "language": "en-US", "text": "Gain and reveal 4 track tokens, then choose whether to keep or discard them.\r\nProgress to entry 19." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Ask for a guide." }, 
+												{ "language": "fr-FR", "text": "Demander à être guidé." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Gain and reveal 4 track tokens, then choose whether to keep or discard them.\r\nProgress to entry 19." }, 
+												{ "language": "fr-FR", "text": "Gagnez et révélez 4 jetons de traque, puis choississez lesquels garder et lesquels défausser.\r\nProgressez à l'étape 19." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 10,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "You've stalked through the forest, intricately and carefully made your way... to the same cave you've visited many times before. Still, perhaps, there might yet be some ore to be discovered." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "You've stalked through the forest, intricately and carefully made your way... to the same cave you've visited many times before. Still, perhaps, there might yet be some ore to be discovered." }, 
+										{ "language": "fr-FR", "text": "Vous avez parcouru la forêt, vous êtes frayé un chemin de manière complexe et minutieuse... jusqu'à la même grotte que vous avez visitée plusieurs fois auparavant. Pourtant, peut-être y a-t-il encore du minerai à découvrir." } 
+									],
 							"rules": [
 								{
-									"rules": [ { "language": "en-US", "text": "Roll a die.\r\nOn a 1-4 all of the ore has been mined.\r\nTime to hurry on. Progress to entry 18.\r\nOn a 5-6 there's still some here. Discard 1 time card.\r\nEach hunter gains 1 Carbalite Ore and 1 Machalite Ore.\r\nProgress to entry 7." } ]
+									"rules": [ 
+												{ "language": "en-US", "text": "Roll a die.\r\nOn a 1-4 all of the ore has been mined.\r\nTime to hurry on. Progress to entry 18.\r\nOn a 5-6 there's still some here. Discard 1 time card.\r\nEach hunter gains 1 Carbalite Ore and 1 Machalite Ore.\r\nProgress to entry 7." }, 
+												{ "language": "fr-FR", "text": "Lancez un dé.\r\nSur 1-4 Il ne reste plus rien à miner pour le moment.\r\nIl est temps d'y aller. Progressez à l'étape 18.\r\nSur 5-6 Il reste un petit quelque chose. Défaussez 1 carte de temps.\r\nChaque chasseur gagne 1 Carbalite Ore et 1 Machalite Ore.\r\nProgressez à l'étape 7." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 11,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "Something huge has clearly passed through this way, fresh markings cover the walls where it squeezed its huge bulk through the passageway. This warren is a maze; you can either rush on blindly, or stop to get your bearings." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "Something huge has clearly passed through this way, fresh markings cover the walls where it squeezed its huge bulk through the passageway. This warren is a maze; you can either rush on blindly, or stop to get your bearings." }, 
+										{ "language": "fr-FR", "text": "Quelque chose d'énorme est clairement passé par là, de nouvelles marques recouvrent les murs où il a pressé son énorme masse à travers le passage. Ce terrier est un labyrinthe ; vous pouvez soit vous précipiter à l'aveuglette, soit vous arrêter pour vous orienter." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Keep moving!" } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Gain 2 track tokens.\r\nProgress to entry 30." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Keep moving!" }, 
+												{ "language": "fr-FR", "text": "On ne s'arrête pas!" } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Gain 2 track tokens.\r\nProgress to entry 30." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Gagnez 2 jetons de traque.\r\nProgressez à l'étape 30." } 
+											]
 								},
 								{
-									"prompt": [ { "language": "en-US", "text": "Advance carefully." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 time card. Reveal up to three tokens from the pool.\r\nProgress to entry 18." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Advance carefully." }, 
+												{ "language": "fr-FR", "text": "Avancer prudemment." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 time card. Reveal up to three tokens from the pool.\r\nProgress to entry 18." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 carte de temps. Révelez jusqu'à trois jetons de traque depuis la pioche.\r\nProgressez à l'étape 18." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 12,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "Lightheaded and breathing heavily, you lean against the bark of a thick tree. Your arms ache, numbness creeping through them towards your shoulders. If only there were a way to relieve your parched throat..." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "Lightheaded and breathing heavily, you lean against the bark of a thick tree. Your arms ache, numbness creeping through them towards your shoulders. If only there were a way to relieve your parched throat..." }, 
+										{ "language": "fr-FR", "text": "Étourdi et respirant fortement, vous vous appuyez contre l'écorce d'un énorme arbre. Vos bras vous font mal, un engourdissement les traverse jusqu'à vos épaules. Si seulement il y avait un moyen de soulager votre gorge desséchée..." } 
+									],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Force yourselves to go on." } ],
-									"rules": [ { "language": "en-US", "text": "All hunters suffer 2 damage. Progress to entry 6." } ]
+									"prompt": [ 
+												{ "language": "en-US", "text": "Force yourselves to go on." }, 
+												{ "language": "fr-FR", "text": "Prendre sur vous et continuer." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "All hunters suffer 2 damage. Progress to entry 6." }, 
+												{ "language": "fr-FR", "text": "Tous les chasseurs subissent 2 dégats. Progressez à l'étape 6." } 
+											]
 								},
 								{
-									"condition": [ { "language": "en-US", "text": "(The hunters may only choose this option if they have at least 1 potion)" } ],
-									"prompt": [ { "language": "en-US", "text": "Drink from your supplies." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 1 potion. Progress to entry 6." } ]
+									"condition": [ 
+													{ "language": "en-US", "text": "(The hunters may only choose this option if they have at least 1 potion)" }, 
+													{ "language": "fr-FR", "text": "(Les chasseurs ne peuvent choisir cette option que s'ils possèdent au moins 1 potion)" } 
+												],
+									"prompt": [ 
+												{ "language": "en-US", "text": "Drink from your supplies." }, 
+												{ "language": "fr-FR", "text": "Boire un coup." } 
+											],
+									"rules": [ 
+												{ "language": "en-US", "text": "Discard 1 potion. Progress to entry 6." }, 
+												{ "language": "fr-FR", "text": "Défaussez 1 potion. Progressez à l'étape 6." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 13,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "`What can I help you with?´ says the small man as you pass him. You should have recognised him as a trader sooner. He grins and gestures to the pack on his back. `I've got anything you might need, just here!´ You're sure he does, but you know it's going to cost you..." } ],
+							"flavor": [ 
+										{ "language": "en-US", "text": "`What can I help you with?´ says the small man as you pass him. You should have recognised him as a trader sooner. He grins and gestures to the pack on his back. `I've got anything you might need, just here!´ You're sure he does, but you know it's going to cost you..." }, 
+										{ "language": "fr-FR", "text": "`En quoi puis-je vous aider ?´ dit un petit homme lorsque vous le croisez. Vous auriez dû reconnaître ce commerçant plus tôt. Il sourit et fait signe au sac sur son dos. `J'ai tout ce dont vous pourriez avoir besoin, juste ici !` Vous êtes sûr qu'il l'a, mais vous savez que cela va vous coûter cher..." } 
+									],
 							"rules": [
 								{
-									"rules": [ { "language": "en-US", "text": "The hunters may discard any three resources, and add 1 Potion to the pool, or gain 1 track token.\r\nIf they do, discard 1 time card. Progress to entry 10." } ]
+									"rules": [ 
+												{ "language": "en-US", "text": "The hunters may discard any three resources, and add 1 Potion to the pool, or gain 1 track token.\r\nIf they do, discard 1 time card. Progress to entry 10." }, 
+												{ "language": "fr-FR", "text": "Les chasseurs peuvent défausser trois ressouces, et ajouter 1 Potion à leur inventaire, ou gagner 1 jeton de traque.\r\nS'il le font, défaussez 1 carte de temps. Progressez à l'étape 10." } 
+											]
 								}
 							]
 						},
 						{
 							"number": 14,
 							"page": 8,
-							"flavor": [ { "language": "en-US", "text": "`Your prey is near... keep up the pace!´ intones a voice, from somewhere amidst the trees. You can't locate the voice, but it isn't wrong. Great Jagras is close, and you're gaining on it. It won't take much to bring it to heel... but who is speaking to you?" } ],
-							"consequence": [ { "language": "en-US", "text": "Each hunter gains 1 Great Jagras Claw." } ],
+							"flavor": [ 
+								{ "language": "en-US", "text": "`Your prey is near... keep up the pace!´ intones a voice, from somewhere amidst the trees. You can't locate the voice, but it isn't wrong. Great Jagras is close, and you're gaining on it. It won't take much to bring it to heel... but who is speaking to you?" }, 
+								{ "language": "fr-FR", "text": "`Votre proie est proche... continuez a ce rythme !´ entonne une voix, quelque part au milieu des arbres. Vous ne pouvez pas localiser la voix, mais ce n'est pas faux. Le Grand Jagras est proche, et vous continuez d'approcher. Il ne faudra pas grand-chose pour le mettre au pas... mais qui vous parle ?" } 
+							],
+							"consequence": [ 
+								{ "language": "en-US", "text": "Each hunter gains 1 Great Jagras Claw." }, 
+								{ "language": "fr-FR", "text": "Tous les chasseurs gagne 1 Great Jagras Claw." } 
+							],
 							"rules": [
 								{
-									"prompt": [ { "language": "en-US", "text": "Investigate the voice." } ],
-									"rules": [ { "language": "en-US", "text": "Progress to entry 13." } ]
+									"prompt": [ 
+										{ "language": "en-US", "text": "Investigate the voice." }, 
+										{ "language": "fr-FR", "text": "Chercher à qui cette mystérieuse voix appartient." } 
+									],
+									"rules": [ 
+										{ "language": "en-US", "text": "Progress to entry 13." }, 
+										{ "language": "fr-FR", "text": "Progressez à l'étape 13." } 
+									]
 								},
 								{
-									"condition": [ { "language": "en-US", "text": "(The hunters may only choose this option if they have at least 1 Great Jagras Hide in their inventories)" } ],
-									"prompt": [ { "language": "en-US", "text": "Ignore it and continue searching through the creature's nest." } ],
-									"rules": [ { "language": "en-US", "text": "Discard 2 time cards. Gain 1 Great Jagras Mane.\r\nProgress to entry 24." } ]
+									"condition": [ 
+										{ "language": "en-US", "text": "(The hunters may only choose this option if they have at least 1 Great Jagras Hide in their inventories)" }, 
+										{ "language": "fr-FR", "text": "(Les chasseurs ne peuevent choisir cette option que s'ils possdent au moins 1 Great Jagras Hide dans leurs inventaires)" } 
+									],
+									"prompt": [ 
+										{ "language": "en-US", "text": "Ignore it and continue searching through the creature's nest." }, 
+										{ "language": "fr-FR", "text": "Ignorer la voix et continuer à chercher le nid de la créature." } 
+									],
+									"rules": [ 
+										{ "language": "en-US", "text": "Discard 2 time cards. Gain 1 Great Jagras Mane.\r\nProgress to entry 24." }, 
+										{ "language": "fr-FR", "text": "Défaussez 2 cartes de temps. Gagenz 1 Great Jagras Mane.\r\nProgressez à l'étape 24." } 
+									]
 								}
 							]
 						}
